@@ -4,6 +4,9 @@ import java.util.*;
 import javax.naming.*;
 import javax.naming.directory.*;
 
+
+
+
 public class SMTPLookup {
     private static int hear( BufferedReader in ) throws IOException {
       String line = null;
